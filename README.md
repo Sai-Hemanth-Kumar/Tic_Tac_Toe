@@ -35,4 +35,4 @@ a.exe
 - `TTT.c` - Main source code for the game.
 
 ## License
-This project is for educational purposes. 
+This project is for educational purposes.
